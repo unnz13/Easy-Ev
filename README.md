@@ -1,5 +1,6 @@
-# Easy-Ev
+Easy EV
 Easy EV is a Python-based analytical model designed to enhance the accuracy of electric vehicle (EV) charging demand predictions and optimize the placement of EV charging stations. This project was part of the Experience Expo 2024 Summer at Northeastern University, featuring a collaboration with Puget Sound Energy.
+
 Features
 Enhanced EV Charging Demand Predictions: Improved prediction accuracy by integrating diverse data sources like US Census and Open Street Maps.
 GIS Tools for Spatial Analysis: Implemented GIS tools to manipulate spatial data, which helped identify high-priority infrastructure areas and reduced analysis time.
